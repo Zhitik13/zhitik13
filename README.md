@@ -1,7 +1,10 @@
-### Hi there 👋
--I'm Backend Developer. Looking for a job
--Here are my contacts - phone: 8-999-105-21-45 // e-mail - pavelzhitenev@gmail.com
--My stack - JavaScript
+### Hello ✋
+
+I'm Backend Developer. Looking for a job
+
+Here are my contacts:  phone: 8-999-105-21-45 // email [pavelzhitenev@gmail.com](mailto:pavelzhitenev@gmail.com)
+
+My stack - JavaScript
 
 <!--
 **Zhitik13/zhitik13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
