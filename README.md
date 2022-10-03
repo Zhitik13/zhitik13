@@ -2,7 +2,7 @@
 
 I'm Backend Developer. Looking for a job
 
-Here are my contacts:  phone: 8-999-105-21-45 // email [pavelzhitenev@gmail.com](mailto:pavelzhitenev@gmail.com)
+Here are my contacts:  phone: +995-511-23-98-96  // email [pavelzhitenev@gmail.com](mailto:pavelzhitenev@gmail.com)
 
 My stack - JavaScript
 
